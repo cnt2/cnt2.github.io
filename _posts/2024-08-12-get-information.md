@@ -6,35 +6,29 @@ data: 2024-08-12
 
 
 > ### 前置知识
-
 1）翻墙：付费购买翻墙服务/自建代理服务器，自建服务器官方文档：v2ray.com  
 2）思辨：可参考编程随想 program-think.blogspot.com 阅读文章及文章内推荐的书籍  
 3）安全：不参与敏感政治话题讨论，即使已使用翻墙服务，依然建议使用 Tor 进行网页浏览，例如编程随想；墙外平台建议采用全新的非实名资料注册，做好墙内外身份隔离，邮箱可使用protonmail  
 4）备份：重要数据定时备份，备份到云服务的敏感数据进行加密，基础加密用7zip压缩加密码，高级加密用veracrypt  
 
 > ### 通用查找
-
  通用搜索引擎（学习搜索引擎语法）：多用Google，少用Baidu  
  学术搜索引擎（可能需要翻译插件）：Google Scholar，主要用于第三方观点的数据查证  
  生成式语言模型（学习提示词的构建）：Kimi、Chatgpt、Gemini、Claude  
 
 > ### 翻译插件（Chrome) 
-
  DeepL  
  沉浸式翻译 immersivetranslate.com  
 
 > ### 电子书资源 
-
  Zlibary：singlelogin.re  
 
 > ### CS基础自学
-
  runoob.com  
  liaoxuefeng.com  
  github.com/PKUFlyingPig/cs-self-learning（**力荐**，需要一定英语水平）  
 
 > ### 快速获取信息
-
  信息发布机构官网（兼听则明，与第三方评价综合判断）  
  Telegram  
  Twitter  
