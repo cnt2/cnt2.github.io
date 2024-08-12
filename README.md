@@ -1,5 +1,2 @@
-[文章目录](_post/index.html)
-
-[new](_post/new.html)
----
+[Blog](cnt2.github.io)
 这是一个实验博客
