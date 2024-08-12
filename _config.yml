@@ -1,1 +1,2 @@
 name: cnt2
+permalink: /blog/:year/:month/:day/:title
