@@ -1,4 +1,4 @@
-[文章目录](blog/index.md)
+[文章目录](_post/index.md)
 
 
 ---
