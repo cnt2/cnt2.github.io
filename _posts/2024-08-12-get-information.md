@@ -8,7 +8,7 @@ data: 2024-08-12
 - [搜索](#搜索)
 - [翻译插件](#翻译插件)
 - [电子书资源](#电子书资源)
-- [基础CS自学](#基础CS自学)
+- [自学资源](#自学资源)
 - [信息源](#信息源)
 - [问答社区](#问答社区)
 - [流媒体](#流媒体)
@@ -34,7 +34,7 @@ data: 2024-08-12
 ## 电子书资源 
  Zlibary：singlelogin.re  
 
-## 基础CS自学
+## 自学资源
  runoob.com  
  liaoxuefeng.com  
  github.com/PKUFlyingPig/cs-self-learning（**力荐**，需要一定英语水平）  
