@@ -32,7 +32,7 @@ data: 2024-08-12
  沉浸式翻译 immersivetranslate.com  
 
 ## 电子书资源 
- Zlibary：singlelogin.re  
+ Zlibrary：singlelogin.re  
 
 ## 自学资源
  runoob.com  
